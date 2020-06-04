@@ -17,3 +17,11 @@
 # Other App List Screen
 
 ![Other App List Screen](https://github.com/prafulkorat/DeleteSystemOrOtherApps/blob/master/Screensots/OtherAppList.jpg "Other App List Screen")
+
+# Delete System App
+
+![DeleteSystemApp](https://github.com/prafulkorat/DeleteSystemOrOtherApps/blob/master/Screensots/DeleteSystemApp.jpg "DeleteSystemApp")
+
+# Delete Other App
+
+![DeleteOtherApp](https://github.com/prafulkorat/DeleteSystemOrOtherApps/blob/master/Screensots/DeleteOtherApp.jpg "DeleteOtherApp")
